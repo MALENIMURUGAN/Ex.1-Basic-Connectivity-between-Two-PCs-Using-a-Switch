@@ -45,8 +45,9 @@ Router(config-if)# ip address 192.168.1.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
-<img width="3199" height="1799" alt="image" src="https:<img width="3199" height="1799" alt="Screenshot 2025-08-09 135322" src="https://github.com/user-attachments/assets/05675566-573b-4f8a-8d39-9a7b5f518910" />
-//github.com/user-attachments/assets/a03c0cbf-ca28-487c-a73a-84b97613433f" />
+<img width="3199" height="1799" alt="image" src="https://github.com/user-attachments/assets/077335b4-cf2a-443c-b1dd-173de8d2698b" />
+<img width="3199" height="1799" alt="image" src="https://github.com/user-attachments/assets/1410f0a1-6d82-4edc-b58b-1b87a7e1aff5" />
+
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
