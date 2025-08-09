@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 09-08-2025		
 
 # Objective
 
@@ -45,6 +45,8 @@ Router(config-if)# ip address 192.168.1.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="3199" height="1799" alt="image" src="https:<img width="3199" height="1799" alt="Screenshot 2025-08-09 135322" src="https://github.com/user-attachments/assets/05675566-573b-4f8a-8d39-9a7b5f518910" />
+//github.com/user-attachments/assets/a03c0cbf-ca28-487c-a73a-84b97613433f" />
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
